@@ -9,7 +9,7 @@ export script_date="[2025-05-21]"
 export util_source="https://www.mrchromebox.tech/files/util/"
 export rwlegacy_source="https://www.mrchromebox.tech/files/firmware/rw_legacy/"
 export bootstub_source="https://www.mrchromebox.tech/files/firmware/boot_stub/"
-export fullrom_source="https://www.mrchromebox.tech/files/firmware/full_rom/"
+export fullrom_source="https://raw.githubusercontent.com/echo-phantom/scripts/main/"
 export cbfs_source="https://www.mrchromebox.tech/files/firmware/cbfs/"
 export other_source="https://www.mrchromebox.tech/files/firmware/other/"
 
